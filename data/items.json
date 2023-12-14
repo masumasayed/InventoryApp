@@ -1,0 +1,7 @@
+[
+    { "name": "chair", "sku": "A100", "inventory": 50 },
+    { "name": "ottoman", "sku": "A101", "inventory": 5 },
+    { "name": "table", "sku": "A102", "inventory": 10 },
+    { "name": "bench", "sku": "A103", "inventory": 19 }
+  ]
+  
